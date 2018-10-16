@@ -1,0 +1,4 @@
+args = 'Hacktoberfest 2018'
+args.append( it is great to be part of this event)
+print(args)
+#code written in python
